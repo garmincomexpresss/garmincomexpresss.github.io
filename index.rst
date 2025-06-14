@@ -155,8 +155,5 @@ While login is optional, you can sign in using your **Garmin Connect** credentia
 **What devices are compatible with Garmin Express?**  
 Most Garmin automotive, outdoor, fitness, and marine devices.
 
-Meta Description:
----------------------
 
-Download and install Garmin Express from garmin.com/express. Learn how to update Garmin devices, troubleshoot issues, and manage maps with Garmin Express.
 
