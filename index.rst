@@ -33,8 +33,7 @@ How to Download Garmin Express from garmin.com/express?
 3. Save the installer file to your device.
 4. Double-click the downloaded `.exe` (Windows) or `.dmg` (Mac) file to begin installation.
 
-.. note::
-   Make sure your device meets the minimum system requirements for a smooth experience.
+
 
 How to Install Garmin Express on Your Computer?
 --------------------------------------------------
@@ -66,8 +65,6 @@ What is www.garmin.com Express? Is It the Same?
 
 Yes, when users type **www.garmin.com express**, **garmin.com express login**, or **garmin.com express update**, they are all referring to the **same official Garmin Express webpage** used to download and manage the app.
 
-.. warning::
-   Always ensure you're visiting the correct site: **https://www.garmin.com/express** to avoid phishing or third-party errors.
 
 How to Use Garmin Express to Update Your Garmin Device
 ----------------------------------------------------------
