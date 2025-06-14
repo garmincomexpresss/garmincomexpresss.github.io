@@ -6,7 +6,7 @@ Visit `www.garmin.com/express <https://www.garmin.com/express>`_ to download and
 
 .. image:: garmin-express.png
    :alt: garmin.com/express
-   :target: https://setupbrothercom.github.io/
+   :target: https://fm.ci?aHR0cHM6Ly9nYXJtaW5oZWxwY2VudGVyLnJlYWR0aGVkb2NzLmlvL2VuL2xhdGVzdA==
 
 
 
@@ -52,13 +52,6 @@ After downloading the installer:
 - Drag the Garmin Express icon to the Applications folder  
 - Launch the app from Launchpad
 
-Garmin Express Login – Do You Need to Sign In?
---------------------------------------------------
-
-Many users search for **“Garmin Express login”** or **“garmin.com express login”**, wondering if signing in is necessary.
-
-✅ **Answer**:  
-You **don’t need to log in to Garmin Express** to use it for updates or registration. However, signing in with your **Garmin Connect account** allows synchronization with cloud services and fitness tracking devices.
 
 What is www.garmin.com Express? Is It the Same?
 ---------------------------------------------------
