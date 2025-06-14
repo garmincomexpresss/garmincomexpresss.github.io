@@ -4,7 +4,7 @@ Garmin.com/express - Complete Guide to Download and Install Garmin Express
 
 Visit garmin.com/express to download and set up Garmin Express in just a few easy steps! Use our guide to install, connect your device, update maps, and manage your Garmin products with ease.
 
-.. image:: download printer driver.png
+.. image:: garmin-express.png
    :alt: garmin.com/express
    :target: https://setupbrothercom.github.io/
 
