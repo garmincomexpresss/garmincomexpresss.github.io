@@ -127,7 +127,7 @@ Final Tips Before You Use Garmin Express
 Conclusion: Stay Ahead with Garmin Express
 ---------------------------------------------
 
-Whether you're an adventure enthusiast, a fitness tracker, or a long-distance truck driver, Garmin Express from garmin.com/express <https://www.garmin.com/express>`_ is your essential tool for keeping your Garmin device running at its best.
+Whether you're an adventure enthusiast, a fitness tracker, or a long-distance truck driver, `Garmin Express from garmin.com/express <https://www.garmin.com/express>`_ is your essential tool for keeping your Garmin device running at its best.
 
 - Download it today  
 - Keep your device updated  
