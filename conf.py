@@ -25,10 +25,10 @@ release = '1.0.0'
 # -- HTML output settings ----------------------------------------------------
 
 # Title shown in the browser tab and top of HTML pages
-html_title = "Garmin.com/express - Complete Guide to Download and Install Garmin Express"
+html_title = "Set Up Your VIZIO Smart TV – vizio.com/setup Guide"
 
 # Optional short title (e.g., for nav bar)
-html_short_title = "Garmin Express"
+html_short_title = "VIZIO TV Setup"
 
 # Favicon (place favicon.ico in the root or _static folder)
 html_favicon = 'favicon.ico'
