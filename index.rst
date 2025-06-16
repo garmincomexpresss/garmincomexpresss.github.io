@@ -1,4 +1,3 @@
-==============================
 Garmin.com/express - Complete Guide to Download and Install Garmin Express
 ===============
 
